@@ -56,7 +56,7 @@ Machine learning pipeline analyzing sentiment trends across customer feedback da
 
 ## 🌐 Connect With Me
 
-📎 LinkedIn:(https://www.linkedin.com/in/honey-shah-585804220/) 
+📎 LinkedIn: https://www.linkedin.com/in/honey-shah-585804220/
 
 🌐 Portfolio Website:
 
